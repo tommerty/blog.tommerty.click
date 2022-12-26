@@ -9,3 +9,4 @@ This is very much a WIP currently, but feel free to check out my other projects 
 [iCreate.Social (Mastodon instance)](https://icreate.social)\
 
 Feel free to join my [Discord](https://gezel.io/discord) also! 😀
+
