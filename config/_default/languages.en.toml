@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Tommerty"
+# logo = "img/logo.jpg"
+# description = "Learning what I can find, and sharing it with you"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "January 2, '06"
+
+[author]
+name = "Tommerty"
+image = "img/author.png"
+headline = "Wannabe front end developer, sharing my experience"
+bio = "Will update my bio later"
+links = [
+{ mastodon = "https://icreate.social/@tommerty" },
+{ discord = "https://gezel.io/discord" },
+{ gezel = "https://gezel.io/" },
+]
