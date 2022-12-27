@@ -13,12 +13,12 @@ enableSearch = true
 enableCodeCopy = true
 
 # mainSections = ["section1", "section2"]
-# robots = ""
+# robots = "all"
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
-  showTitle = true
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  logo = "img/logo.webp"
+  showTitle = false
 
 [footer]
   showCopyright = true
@@ -27,8 +27,8 @@ enableCodeCopy = true
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
-  showRecent = false
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = true
 
 [article]
   showDate = true

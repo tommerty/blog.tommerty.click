@@ -6,19 +6,20 @@ weight = 1
 rtl = false
 
 title = "Tommerty"
-# logo = "img/logo.jpg"
-# description = "Learning what I can find, and sharing it with you"
-# copyright = "Copy, _right?_ :thinking_face:"
+logo = "img/author.png"
+description = "Learning what I can find, and sharing it with you"
+copyright = "Copy, _right?_ :thinking_face:"
 
-dateFormat = "January 2, '06"
+dateFormat = "January 2, 2006"
 
 [author]
 name = "Tommerty"
 image = "img/author.png"
 headline = "Wannabe front end developer, sharing my experience"
-bio = "Will update my bio later"
+bio = "Learning what I can find, and sharing it with you. "
 links = [
 { mastodon = "https://icreate.social/@tommerty" },
 { discord = "https://gezel.io/discord" },
-{ gezel = "https://gezel.io/" },
+{ link = "https://gezel.io/" },
+{ youtube = "https://youtube.com/@tommertyIRL" },
 ]
