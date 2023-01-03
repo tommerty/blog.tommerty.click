@@ -7,22 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Mon, 26 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tommerty.click/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tommerty.click/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>https://blog.tommerty.click/categories/hugo/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <title>1st World Problems</title>
+      <link>https://blog.tommerty.click/categories/1st-world-problems/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.tommerty.click/categories/hugo/</guid>
+      <guid>https://blog.tommerty.click/categories/1st-world-problems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
       <link>https://blog.tommerty.click/categories/personal/</link>
-      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://blog.tommerty.click/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rants</title>
+      <link>https://blog.tommerty.click/categories/rants/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.tommerty.click/categories/rants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://blog.tommerty.click/categories/hugo/</link>
+      <pubDate>Mon, 26 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.tommerty.click/categories/hugo/</guid>
       <description></description>
     </item>
     
