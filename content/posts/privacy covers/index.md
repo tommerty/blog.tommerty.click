@@ -1,8 +1,8 @@
 ---
 title: Privacy covers on "selected" devices
 date: 2023-01-03
-tags: []
-categories: [Personal, 1st World Problems, Rants]
+tags: [Rants, Security]
+categories: [Personal]
 ---
 ## This just bothers me beyond belief...
 Right, so we all know how people on both Mac, Windows and even Linux use privacy covers for their laptops and desktop webcams? You know the things I'm talking about.
