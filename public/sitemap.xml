@@ -9,6 +9,17 @@
     
   
     
+  
+    
+      <url>
+            <loc>https://blog.tommerty.click/posts/hosting-a-mastodon-instance/</loc>
+            <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+  
+    
       <url>
             <loc>https://blog.tommerty.click/posts/privacy-covers/</loc>
             <lastmod>2023-01-03T00:00:00+00:00</lastmod>
@@ -18,10 +29,16 @@
     
   
     
+  
+    
+  
+    
       <url>
             <loc>https://blog.tommerty.click/posts/</loc>
             <lastmod>2023-01-03T00:00:00+00:00</lastmod>
           </url>
+    
+  
     
   
     
@@ -44,8 +61,6 @@
       <url>
             <loc>https://blog.tommerty.click/about/</loc>
           </url>
-    
-  
     
   
 </urlset>

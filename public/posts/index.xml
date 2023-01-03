@@ -9,6 +9,15 @@
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tommerty.click/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>My experience running a Mastodon Instance</title>
+      <link>https://blog.tommerty.click/posts/hosting-a-mastodon-instance/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.tommerty.click/posts/hosting-a-mastodon-instance/</guid>
+      <description>Let get something out of the way first&amp;hellip; This was complicated.</description>
+    </item>
+    
+    <item>
       <title>Privacy covers on &#34;selected&#34; devices</title>
       <link>https://blog.tommerty.click/posts/privacy-covers/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
