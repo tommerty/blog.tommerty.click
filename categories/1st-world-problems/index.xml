@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>1st World Problems on Tommerty</title><link>https://blog.tommerty.click/categories/1st-world-problems/</link><description>Recent content in 1st World Problems on Tommerty</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>Copy, _right?_ :thinking_face:</copyright><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tommerty.click/categories/1st-world-problems/index.xml" rel="self" type="application/rss+xml"/><item><title>Privacy covers on "selected" devices</title><link>https://blog.tommerty.click/posts/privacy-covers/</link><pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate><guid>https://blog.tommerty.click/posts/privacy-covers/</guid><description>This just bothers me beyond belief&amp;hellip; Right, so we all know how people on both Mac, Windows and even Linux use privacy covers for their laptops and desktop webcams?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1st World Problems on Tommerty</title>
+    <link>https://blog.tommerty.click/categories/1st-world-problems/</link>
+    <description>Recent content in 1st World Problems on Tommerty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.tommerty.click/categories/1st-world-problems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy covers on &#34;selected&#34; devices</title>
+      <link>https://blog.tommerty.click/posts/privacy-covers/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.tommerty.click/posts/privacy-covers/</guid>
+      <description>This just bothers me beyond belief&amp;hellip; Right, so we all know how people on both Mac, Windows and even Linux use privacy covers for their laptops and desktop webcams?</description>
+    </item>
+    
+  </channel>
+</rss>
