@@ -68,7 +68,7 @@ enableCodeCopy = true
   # domain = "llama.yoursite.com"
 
 [verification]
-  # google = ""
+google = "G-44HTGM37YF"
   # bing = ""
   # pinterest = ""
   # yandex = ""
