@@ -20,7 +20,7 @@ I'm obviously hurting, not being in my own house and back in my parents place un
 
 Right now my main goal is to get back to Cork city. It's where my friends are at. It's where I can trust and open myself up to people. It's not what I thought it was for the past 5 years living there. I initially hated it, until I made friends about a year ago? And being able to message in a group chat saying "coffee?" knowing that the vast majority will be like "yup, where fam" is just something I need in my life right now. I think I can be hurtful to them sometimes, but I believe they understand my sense of humor and we have a laugh with it.
 
-I don't think I'm going to get into a relationship anytime soon. I need time for me, to be myself, and experience what that's like. I've always lived with other people and been in relationships, and I feel like right now I just need to do that. Shit comes out of nowhere sometimes though, and I guess I'm open to that. There's some shit I'm obviously not going to say in a random, public blog post. I know what I'm talking about with this.
+I don't think I'm going to get into a relationship anytime soon. I need time for me, to be myself, and experience what that's like. I've always lived with other people and been in relationships, and I feel like right now I just need to do that. Shit comes out of nowhere sometimes though, and I guess I'm open to that with time. We'll see where life takes us.
 
 ## My End Goal
 
